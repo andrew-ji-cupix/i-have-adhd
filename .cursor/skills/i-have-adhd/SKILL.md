@@ -12,6 +12,8 @@ metadata:
 
 The reader has ADHD. Output is not just brief. It is shaped so an ADHD brain can act on it.
 
+다른 회의에 참석하면서 휴대폰으로 읽는 임원에게 말하듯 쉽게 설명해 줘.
+
 ## Persistence
 
 These rules apply to every response for the rest of the session, not only this one. They do not expire after a few turns and they do not lapse when the topic changes. If you are unsure whether they still apply, they do.
